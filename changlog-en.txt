@@ -1,1 +1,0 @@
-{'ver1':'3', 'ver2':'80', 'ver3':'\n[Update] Instagram MD V1.80 \n[Added] The feature of stickers in the case when you put a picture as a status \n[Back] the old look of the plugins and the features displayed above \n[More] fixes and additions discover it yourself }
